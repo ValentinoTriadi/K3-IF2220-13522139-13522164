@@ -1,2 +1,1 @@
-!WARNING!
-THIS REPOSITORY IS NOT UP TO DATE
+open `FINAL NOTEBOOK.ipynb` for the final submission.
